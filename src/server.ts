@@ -1,5 +1,3 @@
-import "reflect-metadata";
-import "./database/index";
 import app from "./app";
 
 const port = 3333;
